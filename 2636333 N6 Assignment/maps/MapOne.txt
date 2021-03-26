@@ -1,0 +1,37 @@
+100 5 75 75
+// The first line should contain the width and height of the
+// map and the width and height of each tile. A list of character to
+// tile mappings is then provided where each character is preceded by a
+// # character. The dot character always defaults to a blank space 
+// Note that the referenced files should be in the same directory as the
+// tile map.
+#a=planet-1.png
+#b=planet-2.png
+#c=planet-3.png
+#d=planet-4.png
+#e=planet-5.png
+#f=planet-6.png
+#s=star.png
+#x=fuel.png
+#z=border.png
+// The actual tile map is preceded by the #map line
+#map
+zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+z..b....a...s.......a...e....f........a........b..d...c............a............................zzzz
+z....d....b.......b................e........s..............f.................b...........d...s..zzzz
+z......b......d............a...b........a......e.....c...................c......................zzzz
+z.....c.s..c....c...s..............c..............x........e........e...........................zzzz
+
+
+
+
+
+
+
+
+
+
+
+
+
+
